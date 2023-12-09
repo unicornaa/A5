@@ -1,5 +1,4 @@
 #pragma once
-
 #ifndef A51CIPHER_H
 #define A51CIPHER_H
 
