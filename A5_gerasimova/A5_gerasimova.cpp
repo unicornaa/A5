@@ -23,7 +23,6 @@ int main() {
     for (char c : ciphertext) {
         cout << hex << (int)c << " ";
     }
-    cout << endl;
     return 0;
     
 }
